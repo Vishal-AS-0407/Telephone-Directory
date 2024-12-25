@@ -29,6 +29,7 @@ A simple and efficient **Telephone Directory** application to manage, organize, 
 ## 📂 File Structure
 
 The program uses a binary file named `PhoneBook` to store all contact information.  
+
 ---
 
 ## 🚀 How to Run
