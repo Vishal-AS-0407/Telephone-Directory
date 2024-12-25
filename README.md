@@ -29,28 +29,23 @@ A simple and efficient **Telephone Directory** application to manage, organize, 
 ## 📂 File Structure
 
 The program uses a binary file named `PhoneBook` to store all contact information.  
-
 ---
 
 ## 🚀 How to Run
 
-1. **Clone the Repository**  
-   ```bash
-   git clone https://github.com/your-username/telephone-directory.git
-   cd telephone-directory
-   ```
+1. **Download the File**  
+   Download the `telephone-directory.c` file to your local machine.
 
 2. **Compile the Code**  
    Use any C compiler like GCC.  
    ```bash
-   gcc telephone_directory.c -o directory
+   gcc telephone-directory.c -o directory
    ```
 
 3. **Run the Program**  
    ```bash
    ./directory
    ```
-
 ---
 
 ## 📋 Usage Instructions
@@ -82,17 +77,9 @@ The program uses a binary file named `PhoneBook` to store all contact informatio
 ## 🧰 Requirements
 
 - **C Compiler:** Any standard C compiler (GCC, Clang, etc.)  
-- **Platform:** Works on Linux, Windows, and macOS.
-
 ---
 
-## 🌟 Key Highlights
 
-- **Error Handling:** Ensures invalid inputs are not accepted.  
-- **Duplicate Check:** Prevents adding duplicate phone numbers.  
-- **User Confirmation:** Asks for confirmation before deleting all contacts.  
-
----
 ### 🌟 **Show Your Support!**  
 
 If you find this project helpful, give it a ⭐ on GitHub and share it with others! 😊  
